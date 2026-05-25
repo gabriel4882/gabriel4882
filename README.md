@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @gabriel4882 and like program in php.
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me on facebook or telegram.
+- 💞️ I’m learning visual studio code + IA.
+- 📫 This example systems are done with Laravel, php, java and IA
+-     they aren`t complete but you can do better with vscode + IA.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
